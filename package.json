@@ -1,0 +1,19 @@
+{
+  "name": "miniprogram-ts-less-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "",
+  "keywords": [],
+  "scripts": {},
+  "devDependencies": {
+    "csstype": "^3.1.3",
+    "miniprogram-api-typings": "^3.12.3",
+    "@antfu/eslint-config": "^2.21.3",
+    "eslint": "9.5.0",
+    "eslint-plugin-format": "^0.1.2"
+  },
+  "dependencies": {
+    "@zd~/request": "^0.0.53"
+  }
+}

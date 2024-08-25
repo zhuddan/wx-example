@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/canvas/index",
+    "pages/index/index",
+    "pages/login/index"
+  ],
+  "window": {
+       "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "lazyCodeLoading": "requiredComponents"
+}
