@@ -3,7 +3,6 @@ import { setCacheToken } from '../../utils/cache/index'
 
 // pages/login/index.ts
 Page({
-
   /**
    * 页面的初始数据
    */
